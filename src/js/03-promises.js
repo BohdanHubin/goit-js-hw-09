@@ -38,4 +38,5 @@ function runCreatePromises(event) {
   });
     delay += step;
   }
+  fornRef.reset()
 }
